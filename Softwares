@@ -1,0 +1,149 @@
+cisco packet tracker
+docker
+git 
+github desktop
+comet 
+droidcam camera
+postman
+Cursor
+Jenkins
+PostgreSQL
+vmware workstation / virtualbox
+Python
+c++ 
+mongodb 
+onlyoffice
+git
+antigravity
+node js
+ngrok
+claude 
+Terraform (Hashicrop) amd64 :- add path to environment:-terraform -v:-extension in vs code
+codex
+davinci resolve
+docker
+obs studio
+blender
+
+
+
+
+
+# Frontend
+
+- [ ]  NextJS
+- [ ]  HTML
+- [ ]  CSS
+- [ ]  JS
+- [ ]  Three.js (3D rendering)
+- [ ]  Blender (3D models)
+
+# UI / Design / Animation
+
+- [ ]  Tailwind CSS
+- [ ]  Figma
+- [ ]  Framer Motion
+- [ ]  Storybook
+
+# Mobile
+
+- [ ]  React Native
+
+# Backend
+
+- [ ]  Python (FastAPI)
+
+# APIs & Communication
+
+- [ ]  REST APIs
+- [ ]  WebSockets ([Socket.io](http://socket.io/))
+
+# Database & Storage
+
+- [ ]  PostgreSQL
+- [ ]  MySQL
+- [ ]  MongoDB
+- [ ]  Supabase
+
+# Caching & Tools
+
+- [ ]  Redis (caching)
+- [ ]  Postman (API testing)
+
+# Cloud (AWS)
+
+- [ ]  AWS EKS (Kubernetes – orchestration)
+- [ ]  AWS ECS (container management)
+- [ ]  AWS Lambda (serverless functions)
+- [ ]  Amazon S3 (storage)
+- [ ]  CloudFront (CDN)
+- [ ]  AWS RDS (managed PostgreSQL/MySQL)
+- [ ]  AWS ElastiCache (Redis)
+- [ ]  API Gateway
+- [ ]  AWS AppSync
+- [ ]  CloudWatch
+- [ ]  AWS X-Ray
+
+# DevOps & CI/CD
+
+- [ ]  Git
+- [ ]  GitHub Actions (CI/CD pipelines)
+- [ ]  GitLab CI
+- [ ]  Jenkins
+- [ ]  Terraform
+- [ ]  Kubernetes
+- [ ]  Docker
+- [ ]  MLflow
+- [ ]  Databricks
+- [ ]  Grafana
+- [ ]  Prometheus
+- [ ]  Datadog
+- [ ]  Sentry (error tracking)
+
+# Authentication & Security
+
+- [ ]  Firebase Auth
+- [ ]  Supabase Auth
+- [ ]  JWT (JSON Web Tokens)
+- [ ]  Refresh Tokens
+- [ ]  Cookies
+- [ ]  IP whitelisting
+- [ ]  Rate limiting
+- [ ]  Webhooks
+- [ ]  Key cloack
+
+# Messaging & Event-Driven Systems
+
+- [ ]  Apache Kafka (message queues)
+- [ ]  RabbitMQ
+- [ ]  Event-driven architecture
+- [ ]  AWS SQS / SNS
+- [ ]  Redis streams
+
+# AI / Machine Learning
+
+- [ ]  TensorFlow
+- [ ]  PyTorch
+- [ ]  Deep Learning (DL)
+- [ ]  NLP / CV (Natural Language Processing / Computer Vision)
+- [ ]  Hugging Face Transformers
+- [ ]  LangChain
+
+# System Design Concepts
+
+- [ ]  Microservices architecture
+- [ ]  Domain-driven design
+- [ ]  Event sourcing
+- [ ]  Circuit breaker pattern
+- [ ]  Saga pattern
+- [ ]  API Gateway pattern
+- [ ]  BFF (Backend for Frontend)
+
+# Software Testing
+
+- [ ]  Unit Testing
+- [ ]  Integration Testing
+- [ ]  End-to-End (E2E) Testing
+- [ ]  Load Testing
+
+# VFX 3D Animations

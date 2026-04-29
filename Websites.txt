@@ -1,0 +1,133 @@
+# Websites
+
+# Development & Hosting
+
+- [ ]  lovable.dev
+- [ ]  claude.ai
+- [ ]  bolt.new
+- [ ]  supabase.com
+- [ ]  n8n.io
+- [ ]  cloudinary.com
+- [ ]  vercel.com/netlify
+- [ ]  github.com
+- [ ]  namecheap.com
+- [ ]  hostinger.com
+- [ ]  replit
+- [ ]  emergent
+- [ ]  cursor
+- [ ]  figma
+- [ ]  profreehost
+- [ ]  antigravity
+- [ ]  n8n
+
+### Payments
+
+- stripe.com
+- razorpay.com
+
+### 📧 Email & Communication
+
+- resend.com
+- clerk.com
+
+### 🌍 DNS / Infra / Monitoring
+
+- cloudflare.com
+- sentry.io
+- upstash.com
+- pinecone.io
+
+### Databases / Tools
+
+- firebase.google.com
+- notion.so
+
+### Music / AI
+
+- musicgpt (likely tool/site, unclear exact domain)
+
+# Movie / Streaming Sites (as written)
+
+- cineHD.net
+- filmween
+- filmize / popcornflix
+- netmirror / animesalt
+- cineby
+- watch.efri
+- autoembed
+- cinevo
+- cinema.bz
+- mappl.tv
+- tmovie.tv
+- vidbox.cc
+- movierulz
+- hydrahd
+- 7reel
+- deepwebhost
+- 1Shows
+- streamx
+- 7reels
+- Gaiaflix
+
+# 🤖 AI Tools / Websites
+
+### Set 1
+
+- [ ]  grock (likely Grok AI)
+- [ ]  freemediaheckyaah
+- [ ]  gamma.app
+- [ ]  elevenlabs.io
+- [ ]  ideogram.ai
+- [ ]  blackbox.ai
+- [ ]  nio→gate
+- [ ]  blueprint
+- [ ]  deskin
+
+### Set 2
+
+- [ ]  Chrome Remote Desktop
+- [ ]  uiverse.io (repeated)
+- [ ]  LLM visualization tools
+- [ ]  map visualization tools
+- [ ]  cleanvoice.ai
+- [ ]  blackbox
+- [ ]  google ai studio
+
+### Set 3
+
+- [ ]  poe.com
+- [ ]  napkin.ai
+- [ ]  github copilot
+- [ ]  cursor.sh
+- [ ]  studily
+- [ ]  cobalt
+
+Chrome:=glass new GNTD Extension
+
+# AI tools
+
+gemma4
+
+droidcam obs plugin
+
+openbuilder.com
+
+claude
+
+emergent
+
+glm 5.1
+
+creative conor
+
+firgirl repack
+
+chat.atxp.ai/c/new
+
+claude code
+
+Adescargar.net
+
+# Vibe coding:-
+
+blackbox→prompt→lovable→github

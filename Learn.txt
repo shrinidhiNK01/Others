@@ -1,0 +1,57 @@
+Arrays               
+Stack
+Recursion
+Sorting
+Binary Search
+Trees
+Graphs
+Strings
+Queue
+LL
+Heap
+BackTracking
+DP
+Redis
+Greedy
+CN
+DBMS
+OS
+CD
+Algo
+DS
+C
+COA
+DL(gate)
+EM
+DM
+GA
+NPTEL
+FastAPI
+NextJS
+MongoDB
+GIT 
+JS
+CSS
+Tailwind CSS
+C++
+Python
+PostgreSQL
+Backend
+DR
+Blender
+Unreal Engine
+Docker
+Kubernates
+CI CD Pipeline
+Gitlab
+Linux
+Terraform
+Grafana Promethesesus
+Ansible
+AWS
+Jenkins
+Vibe Coding()
+Genai(1)
+DL(3)
+Agentic AI(1)
+html

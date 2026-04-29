@@ -1,0 +1,54 @@
+Mathu vadalara 1,2
+bad guys 1,2
+dj tillu 1,2
+gyara gyara
+edge of tommorow
+2018
+marana mass
+robo 1,2
+lucy
+gran turismo
+funky
+sookshmadarshini
+coolie
+son of sardaar 1,2
+madhrasi
+padiyappa
+jhony llb 1,2,3
+housefull 1,2,3,4,5
+Uri
+khakee
+comali
+dhurandhar 1,2
+- [ ]  kgf 1,2
+salaar, ugram
+funky
+prince, jatiratnalu
+ratsassan
+perusu
+
+
+
+                                Movie Tech
+
+- [ ]  Davinci-resolve:- Editing,Color grading,VFX(Fusion),Audio(FairLight)
+- [ ]  Blender:- VFX,Animation,3d modelling,simulation,explotion,sci-fi assets
+- [ ]  UnrealEngine::- Real-time rendering, 
+create **cinematic scenes without rendering hours**
+- [ ]  Fusion In Resolve:- Motion Graphics ,green screen, tracking,composition
+- [ ]  Natron
+- [ ]  Audacity
+- [ ]  Fairlight
+
+                ## Motion Capture (for characters)
+
+- Plask
+- Rokoko Video
+
+
+
+                ## AI Tools (Game changer for 0 budget)
+
+- Stable Diffusion → concept art, backgrounds
+- Runway → VFX, background removal, AI shots
+- ElevenLabs → dubbing, narration
