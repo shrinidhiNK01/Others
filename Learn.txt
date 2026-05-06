@@ -55,3 +55,4 @@ Genai(1)
 DL(3)
 Agentic AI(1)
 html
+IT Fundamentals
